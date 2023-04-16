@@ -1,0 +1,27 @@
+.wrapper{
+    background-color: antiquewhite;
+    margin: auto;
+    width: 600px;
+    overflow: hidden;
+    
+    }
+    .newContent{
+        background-color: cyan;
+        float: left;
+        width: 300px;
+    }
+    .sidebar{
+    background-color: rgb(192, 241, 241);
+    float: right;
+    width: 300px;
+    }
+body{
+    background-color: rgb(171, 177, 164);
+}
+.newContent, .sidebar{
+    height: 600px;
+}
+aside ul{
+list-style: none;
+padding-left: 0;
+}

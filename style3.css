@@ -1,0 +1,10 @@
+ul li{
+    display: inline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration-line: none;
+}
+ul a:hover{
+    text-decoration: underline;
+}

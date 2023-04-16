@@ -1,0 +1,9 @@
+ul li{
+    list-style: none;
+    margin-bottom: 20%;
+    padding: none;
+}
+label{
+    display: block;
+}
+
